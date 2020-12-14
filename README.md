@@ -8,3 +8,5 @@
 -----------------------------------------
 <img width="352" alt="문제6" src="https://user-images.githubusercontent.com/73264951/102083767-6e632400-3e57-11eb-9d9c-39c0dabe1f5f.png">
 --------------------------------------
+<img width="340" alt="문제7" src="https://user-images.githubusercontent.com/73264951/102083868-994d7800-3e57-11eb-8a27-52f2e38bb3d3.png">
+-------------------------------------
