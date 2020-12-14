@@ -6,3 +6,5 @@
 -----------------------------------------------
 <img width="154" alt="문제4" src="https://user-images.githubusercontent.com/73264951/102083665-45429380-3e57-11eb-8a2e-c66a5cb65529.png">
 -----------------------------------------
+<img width="352" alt="문제6" src="https://user-images.githubusercontent.com/73264951/102083767-6e632400-3e57-11eb-9d9c-39c0dabe1f5f.png">
+--------------------------------------
